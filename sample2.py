@@ -1,0 +1,13 @@
+programming_language='python programming'
+print(programming_language[-18::4])
+print(programming_language[::5])
+print(programming_language[::-3])
+print(programming_language[2:15])
+print(programming_language[-16:-3])
+print(programming_language[7:18])
+print(programming_language[:10:-1])
+print(programming_language[-1:-10:-2])
+print(programming_language[::2])
+print(programming_language[1::2])
+print(programming_language[3:18:4])
+print(programming_language[-15:18:3])
